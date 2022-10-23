@@ -1,0 +1,26 @@
+<DataPutRequest RequestID="0000-1111-2222-3333" MessageTime="9999-99-99" TransmissionComplete="true" TransmissionSuspended="false">
+	<Tables>
+		<Table Type="liveTable" Competition="Bundesliga" MatchDay="11">
+			<Entry Position="1" Club="FC Bayern München" ClubID="FCB" GamesPlayed="11" GoalsScored="40" GoalsAgainst="11" GoalsDifference="29" Points="28" Tendency="stable"/>
+			<Entry Position="2" Club="Borussia Dortmund" ClubID="BVB" GamesPlayed="11" GoalsScored="28" GoalsAgainst="17" GoalsDifference="11" Points="24" Tendency="stable"/>
+			<Entry Position="3" Club="SC Freiburg" ClubID="SCF" GamesPlayed="11" GoalsScored="18" GoalsAgainst="9" GoalsDifference="9" Points="22" Tendency="stable"/>
+			<Entry Position="4" Club="Vfl Wolfsburg" ClubID="WOB" GamesPlayed="11" GoalsScored="12" GoalsAgainst="12" GoalsDifference="0" Points="19" Tendency="up"/>
+			<Entry Position="5" Club="RB Leipzig" ClubID="RBL" GamesPlayed="11" GoalsScored="23" GoalsAgainst="11" GoalsDifference="12" Points="18" Tendency="up"/>
+			<Entry Position="6" Club="Bayer 04 Leverkusen" ClubID="B04" GamesPlayed="11" GoalsScored="24" GoalsAgainst="17" GoalsDifference="7" Points="18" Tendency="down"/>
+			<Entry Position="7" Club="1. FSV Main" ClubID="M05" GamesPlayed="11" GoalsScored="15" GoalsAgainst="11" GoalsDifference="4" Points="17" Tendency="down"/>
+			<Entry Position="8" Club="1. FC Union Berlin" ClubID="FCU" GamesPlayed="11" GoalsScored="17" GoalsAgainst="17" GoalsDifference="0" Points="17" Tendency="down"/>
+			<Entry Position="9" Club="Borussia M'Gladbach" ClubID="BMG" GamesPlayed="11" GoalsScored="13" GoalsAgainst="14" GoalsDifference="-1" Points="15" Tendency="up"/>
+			<Entry Position="10" Club="TSG Hoffenheim" ClubID="TSG" GamesPlayed="11" GoalsScored="19" GoalsAgainst="17" GoalsDifference="2" Points="14" Tendency="down"/>
+			<Entry Position="11" Club="FC Bayern München" ClubID="FCB" GamesPlayed="11" GoalsScored="40" GoalsAgainst="11" GoalsDifference="29" Points="28" Tendency="stable"/>
+			<Entry Position="12" Club="Borussia Dortmund" ClubID="BVB" GamesPlayed="11" GoalsScored="28" GoalsAgainst="17" GoalsDifference="11" Points="24" Tendency="stable"/>
+			<Entry Position="13" Club="SC Freiburg" ClubID="SCF" GamesPlayed="11" GoalsScored="18" GoalsAgainst="9" GoalsDifference="9" Points="22" Tendency="stable"/>
+			<Entry Position="14" Club="Vfl Wolfsburg" ClubID="WOB" GamesPlayed="11" GoalsScored="12" GoalsAgainst="12" GoalsDifference="0" Points="19" Tendency="up"/>
+			<Entry Position="15" Club="RB Leipzig" ClubID="RBL" GamesPlayed="11" GoalsScored="23" GoalsAgainst="11" GoalsDifference="12" Points="18" Tendency="up"/>
+			<Entry Position="16" Club="Bayer 04 Leverkusen" ClubID="B04" GamesPlayed="11" GoalsScored="24" GoalsAgainst="17" GoalsDifference="7" Points="18" Tendency="down"/>
+			<Entry Position="17" Club="1. FSV Main" ClubID="M05" GamesPlayed="11" GoalsScored="15" GoalsAgainst="11" GoalsDifference="4" Points="17" Tendency="down"/>
+			<Entry Position="18" Club="1. FC Union Berlin" ClubID="FCU" GamesPlayed="11" GoalsScored="17" GoalsAgainst="17" GoalsDifference="0" Points="17" Tendency="down"/>
+			<Entry Position="19" Club="Borussia M'Gladbach" ClubID="BMG" GamesPlayed="11" GoalsScored="13" GoalsAgainst="14" GoalsDifference="-1" Points="15" Tendency="up"/>
+			<Entry Position="20" Club="TSG Hoffenheim" ClubID="TSG" GamesPlayed="11" GoalsScored="19" GoalsAgainst="17" GoalsDifference="2" Points="14" Tendency="down"/>
+		</Table>
+	</Tables>
+</DataPutRequest>
